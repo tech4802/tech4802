@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning how to use GitHub.
     - Although I have worked some with Markdown, I never had a reason to play with GitHub before.
 
-### If you want to know more about my copy editig and proofreading, you can click on the link over there in the left column.
+### :arrow_left: If you want to know more about my copy editig and proofreading, you can click on the link over there in the left column.
 
 
 <!--
