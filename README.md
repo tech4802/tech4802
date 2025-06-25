@@ -1,7 +1,10 @@
-## Hi there 👋
+## Hello 👋 My name is Michael and this is my GitHub presence.
 
 - 🌱 I’m currently learning how to use GitHub.
     - Although I have worked some with Markdown, I never had a reason to play with GitHub before.
+
+I am a copyeditor, proofreader, and technical writer. I work primarily with technical documents but copy edit and proofread general subjects, as well.
+
 
 <!--
 **tech4802/tech4802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
