@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning how to use GitHub.
-    - I never had a reason to play with it before.  
+    - Although I have worked some with Markdown, I never had a reason to play with GitHub before.
 
 <!--
 **tech4802/tech4802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
